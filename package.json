@@ -1,0 +1,14 @@
+{
+  "name": "gdgc_task_round_backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.x.x",
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}
