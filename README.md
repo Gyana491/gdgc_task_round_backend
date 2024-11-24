@@ -7,5 +7,6 @@ Link:[ https://gdgc-task-round-backend.onrender.com/listing](https://gdgc-task-r
 ## 🚀 Tech Stack
 
 - Node.js (v14 or higher)
+- expressjs for routing
 - npm
-- Supabase account
+- Supabase
